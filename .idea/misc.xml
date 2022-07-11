@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/drawable/ic_star_yellow_24dp.xml" value="0.2265" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/drawable/shape_background_coklat.xml" value="0.2265" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/drawable/shape_line.xml" value="0.2545" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/drawable/shape_rectangle_black_grey_left.xml" value="0.2545" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/drawable/shape_rectangle_black_grey_right.xml" value="0.2555" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/drawable/shape_rectangle_hijau.xml" value="0.192" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/drawable/shape_rectangle_putih.xml" value="0.192" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/font/montserrat.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/font/montserrat_bold.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/font/montserratbold.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_checkout.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_checkout_success.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_history.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_my_wallet.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_onboarding_one.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_onboarding_three.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_onboarding_two.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_pilih_tiket.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_sign_up_photoscreen.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/activity_tiket.xml" value="0.264" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/fragment_dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/fragment_tiket.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/row_item_checkout.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/row_item_checkout_white.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/row_item_coming_soon.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/row_item_now_populer.xml" value="0.25" />
+        <entry key="..\:/Users/Yohanes Wijaya/AndroidStudioProjects/BWAWisata/app/src/main/res/layout/row_item_play.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
